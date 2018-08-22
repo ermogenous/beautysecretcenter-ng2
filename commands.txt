@@ -1,0 +1,6 @@
+//how to start the server
+ng serve
+
+//publish deploy
+ng build --prod
+and copy everything from .dist
